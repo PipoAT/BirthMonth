@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d529ced8-d7ff-4074-b886-abcc3d704fcb" name="Changes" comment="Project init">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BirthMonth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BirthMonth/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="d529ced8-d7ff-4074-b886-abcc3d704fcb" name="Changes" comment="Completed Task 2 of Lab 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +21,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/apmar/IdeaProjects/BirthMonth",
-    "onboarding.tips.debug.path": "C:/Users/apmar/IdeaProjects/BirthMonth/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/apmar/IdeaProjects/BirthMonth&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/apmar/IdeaProjects/BirthMonth/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +46,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685023146307</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed Task 2 of Lab 5">
+      <created>1685146359812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685146359812</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +69,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project init" />
+    <MESSAGE value="Completed Task 2 of Lab 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 2 of Lab 5" />
   </component>
 </project>
